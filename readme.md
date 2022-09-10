@@ -12,7 +12,7 @@
 ### Time Required to finish the project
     (4 hrs)
 
- [Deployed Link](https://css-html-project-twelve.netlify.app/)
+ [Deployed Link](https://project12-business-landingpage.netlify.app/)
 
 ![badge](https://img.shields.io/badge/Deployment-Up-green)
 
